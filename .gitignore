@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-generated artifacts
+sensor_data_raw.csv
+activity_runs*.json
+databricks_run_output*.json
+pipeline_run*.json
+pipeline_last_run.json
+last_run_id.txt
+terraform_destroy_output.txt
+
+# Terraform local state and cache
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.*
