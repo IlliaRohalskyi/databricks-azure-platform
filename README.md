@@ -8,8 +8,6 @@ An Azure + Databricks medallion demo that shows end-to-end data engineering work
 - A small synthetic sensor dataset is generated locally and uploaded to ADLS.
 - The repository uses a repeatable deploy script.
 
-This repository is designed to prove you can build, deploy, and explain a real cloud data pipeline.
-
 ## What This Project Demonstrates
 
 - Infrastructure as code with Terraform.
